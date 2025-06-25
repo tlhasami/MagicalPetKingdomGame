@@ -1,0 +1,16 @@
+tlhasami
+0 0 0 0 0 0 56 109
+8 15 200 200 1
+Griffin
+
+5 50 200 200 1
+Phoenix
+
+10 25 200 200 1
+Dragon
+
+7 18 107 130 1
+Unicorn
+
+0
+Crimson_vortex
