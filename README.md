@@ -14,8 +14,8 @@ Magical Pet Kingdom is a simple, self-contained 2D game implemented in C++ that 
 
 ## Project structure 🔧
 
-- `B_24i3118_project/` - Main project source
-  - `B_24i3118_project.cpp` - Entry point
+- `MagicalPetKingdom/` - Main project source
+  - `main.cpp` - Entry point
   - `users.txt`, `guilds.txt` - Simple text DB for users and guilds
 - `header/` - Game headers (e.g., `game.h`, `player.h`, `guild.h`, ...)
 - `images/` - Sprite and UI images
